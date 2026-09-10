@@ -1,1 +1,1 @@
-# superSystolicArray
+# mxint8_systolic_array
